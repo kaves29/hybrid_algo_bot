@@ -40,3 +40,4 @@ I also built the backtesting and performance-analysis portion from scratch, incl
 
 The main goal of this project was to combine machine learning with traditional quantitative trading methods and build the entire pipeline myself, from collecting market data and engineering features to making trades and analyzing the results.
 
+**Disclaimer: Sections of the code may not be accurate to the original because of unsaved code that did not transfer correctly and was lost***
